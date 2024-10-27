@@ -135,7 +135,7 @@ export default function Home() {
       Array.from(
         { length: 40 },
         () => wordsArray[Math.floor(Math.random() * wordsArray.length)]
-      ).join(" ") + " ".repeat(2)
+      ).join(" ") + " "
     );
   };
 
