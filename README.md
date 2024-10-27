@@ -1,37 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WhackyType
+
+Welcome to **Whackytype**, the typing test that says, "Who cares about being accurate? Fake it till you make it." Forget the pressure of perfecting your typing skills; in Whackytype, every key you hit is a victory! Whether you’re mashing the keyboard or typing with grace, we’ll count it all as correct.
+
+## Features
+
+- **Count Any Key**: Type whatever comes to your mind, even if it’s just a random string of gibberish! All keys are correct :0
+- **Random Text Generation**: Each test generates a delightful concoction of words to type. You might get Shakespeare or you might get a recipe for pineapple pizza or just random words from a predefined array which make no sense put together—who knows?
+- **Easy to Use**: Click on the input field, and let the typing begin! No wrong moves here, only glorious, unfiltered keystrokes 😉
+
+_Did you just set a new world record in typing nonsense? We think so!_
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these steps, or just wing it—this is Whackytype after all!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Make sure you have the following installed on your machine:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Node.js (version 14 or higher)
+- npm (Node package manager)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Installation
 
-## Learn More
+1. Clone the repository:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   git clone https://github.com/notsugee/whackytype.git
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Navigate to the project directory:
+   ```bash
+   cd whackytype
+   ```
+3. Install the necessary dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and go to:
+   ```bash
+   http://localhost:3000/
+   ```
+   to witness the glory of Whackytype!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# whackytype
+... Or you can just click on this link here - {Whackytype}()
