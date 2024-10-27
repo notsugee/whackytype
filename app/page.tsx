@@ -1,8 +1,6 @@
 "use client";
-import { Roboto_Mono } from "next/font/google";
 import { useState } from "react";
-
-const roboto_mono = Roboto_Mono({ subsets: ["latin"] });
+import Header from "./components/Header";
 
 export default function Home() {
   const starterText = "Lorem Ipsum is simply dummy Ipsum.";
@@ -19,9 +17,8 @@ export default function Home() {
 
   return (
     <>
-      <div
-        className={`${roboto_mono.className} mx-auto max-w-3xl relative top-28 items-center justify-items-center`}
-      >
+      <Header />
+      <div className="mx-auto max-w-3xl relative top-28 items-center justify-items-center">
         <p>score: {score}</p>
         <p>words: {words}</p>
         <p>WPM: {wpm}</p>
