@@ -47,4 +47,4 @@ Make sure you have the following installed on your machine:
    ```
    to witness the glory of Whackytype!
 
-... Or you can just click on this link here - {Whackytype}(https://whackytype.vercel.app/)
+... Or you can just click on this link here - [Whackytype](https://whackytype.vercel.app/)
