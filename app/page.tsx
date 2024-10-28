@@ -174,11 +174,11 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="flex relative mx-auto max-w-24 hover:opacity-85 transition-opacity top-28 cursor-pointer mb-4 justify-center gap-x-4 items-center z-10 opacity-35">
+      <div className="flex mx-24 relative hover:opacity-85 transition-opacity top-28 cursor-pointer mb-4 justify-center gap-x-4 items-center z-10 opacity-35">
         <Image src={Globe} alt="Globe" className="w-4 h-4 invert" />
         <p>english</p>
       </div>
-      <div className="mx-auto max-w-7xl relative top-28 items-center justify-items-center">
+      <div className="md:mx-24 mx-10 relative top-28 items-center justify-items-center">
         <div className="relative">
           {score === 0 ? (
             <p className="opacity-35 leading-relaxed text-3xl z-2">
