@@ -8,7 +8,7 @@ Welcome to **Whackytype**, the typing test that says, "Who cares about being acc
 - **Random Text Generation**: Each test generates a delightful concoction of words to type. You might get Shakespeare or you might get a recipe for pineapple pizza or just random words from a predefined array which make no sense put together—who knows?
 - **Easy to Use**: Click on the input field, and let the typing begin! No wrong moves here, only glorious, unfiltered keystrokes 😉
 
-_Did you just set a new world record in typing nonsense? We think so!_
+_Did you just set a new world record in typing nonsense? I think so!_
 
 ## Getting Started
 
